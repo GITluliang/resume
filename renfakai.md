@@ -106,20 +106,6 @@ Spring、Struts2、Hibernate、Jsp、Ant
 相关技术  
 SpringBoot、SpringMvc、Mybatis、Mysql、ElasticSearch、Redis 、Git
 
-
-#### 逸途旅游问答社区        核心人员        2017.09-2017.11  
-项目描述
-该项目意在为公司 AI 系统提供问答素材。项目前期通过爬虫技术从互联网爬取大量旅游相关问题及参考答案，并设置积分奖励，用户通过答题的方式赚取积分，积分可以按一定比例提现。 </br>  
-
-* 参与前期需求讨论、设计定型;  
-* 学习微服务架构，拆分业务;  
-* 根据业务拆分进行数据库设计;  
-* 使用SpringBoot初始业务项目，通过SpringCloud集成各业务项目; 
-
-相关技术  
-SpringBoot、SpringCloud、 SpringMvc、Mybatis、Mysql、Git
- 
-
 #### 逸途翻译机项目        核心人员        2016.4-2017.7  
 项目描述
 项目为硬件翻译机提供绑定、解绑及配置、翻译记录云服务，集成讯飞语音合成和FFmpeg为翻译机和逸豆APP提供景点语音。 </br>  
