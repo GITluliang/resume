@@ -55,7 +55,7 @@ SpringBoot、SpringMvc、Mybatis、Oracle、Kafka、Maven、Redis、Git
 相关技术  
 SpringBoot、SpringMvc、Mybatis、Oracle、Kafka、Maven、Redis 、Git
 
-#### 核心系统维护        核心开发        2018.8-至今  
+#### 核心系统维护        核心开发        2018.8-2019.11 
 
 项目描述
 该项目主要提供了用户贷款申请风控、合同管理、催收模块、财务模块管理、视频面签等功能<br/> 
