@@ -7,7 +7,7 @@ Java开发工程师 ｜ 全职 ｜ 北京 ｜ 薪资面议 ｜ 到岗时间面�
 
 ## 掌握技能 </br>
 
-* 开发语言: 精通 Java、了解 Golang</br> 
+* 开发语言: 精通 Java、了解 Golang、汇编</br> 
 * 后端框架: 精通 Spring、SpringMvc、Mybatis、SpringBoot、熟悉 SpringData、Struts2、Hibernate 了解 SpringCloud</br>
 * 数据库: 精通 Oracle、Mysql 熟悉 Redis</br>
 * 中间件: 熟悉 Kafka 了解 Zookeeper、Tidb、Netty</br>
